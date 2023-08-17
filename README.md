@@ -4,7 +4,7 @@ Submitted by: **Angie Martinez**
 
 **Pre Work iOS Project** is an app that allows you to change the background colors when the button is pressed. 
 
-Time spent: **4** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
