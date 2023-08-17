@@ -32,6 +32,26 @@ GIF created with ...
 
 Connecting the button to the ViewController and then having a defect when the button is pressed that it does not work properly although all code is correct.
 
+## List
+
+The 3-5 applications with 2-3 features for each include:
+
+App 1: WhatsApp
+
+Features: 1. Having more enhanced group management for better user experience.
+          2. Implementing a message editing feature and an unsend timer.
+          
+App 2: Instagram
+
+Features: 1. Having a more sophisticated content categorization and discovery system
+          2. Allowing users to include clickable links in their regular feed post
+          
+App 3: YouTube          
+
+Features: 1. Enhancing content filtering and recommendation customization options 
+          2. Introducing real-time interactive viewing events
+
+
 ## License
 
     Copyright [2023] [Codepath]
