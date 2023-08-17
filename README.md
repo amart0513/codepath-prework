@@ -24,7 +24,7 @@ https://i.imgur.com/l6AXl9r.gif
 
 ## Notes
 
-Connecting the button to the ViewController and then having a defect when the button is pressed that it does not work properly although all code is correct.
+A trouble I had throughout the prework process was connecting the button from the storyboard to the ViewController class.
 
 ## List
 
